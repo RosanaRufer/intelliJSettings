@@ -1,0 +1,9 @@
+<keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
