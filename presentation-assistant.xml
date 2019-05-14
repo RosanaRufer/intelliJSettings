@@ -1,5 +1,10 @@
 <application>
   <component name="PresentationAssistant">
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Mac OS X 10.5+ copy 1" />
+      </KeymapDescription>
+    </option>
     <option name="showActionDescriptions" value="false" />
   </component>
 </application>
